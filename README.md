@@ -7,10 +7,11 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30.0-FF4B4B.svg)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success.svg)](https://lecture-voice-to-notes-3smm9xbpjnqzkcotfuejba.streamlit.app/)
 
 *An AI-powered application that automatically converts lecture audio into structured notes, interactive quizzes, and study flashcards using advanced speech-to-text and generative AI technology.*
 
-[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [API Providers](#-api-providers) • [Contributing](#-contributing)
+[🚀 Live Demo](https://lecture-voice-to-notes-3smm9xbpjnqzkcotfuejba.streamlit.app/) • [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [API Providers](#-api-providers) • [Contributing](#-contributing)
 
 </div>
 
@@ -61,16 +62,17 @@
 
 ## 🎬 Demo
 
-### Main Interface
-![Main Interface](screenshots/main-interface.png)
+### 🌐 Live Demo
+**Try it now:** [https://lecture-voice-to-notes-3smm9xbpjnqzkcotfuejba.streamlit.app/](https://lecture-voice-to-notes-3smm9xbpjnqzkcotfuejba.streamlit.app/)
 
-### Generated Notes Example
-![Notes Example](screenshots/notes-example.png)
+> **FREE AI-powered transcription using Groq!** No installation required - just upload your audio and get instant results.
 
-### Quiz Generation
-![Quiz Example](screenshots/quiz-example.png)
-
-> **Note**: Screenshots are illustrative. The actual interface provides a clean, modern web-based experience.
+### Features Demo
+- Upload lecture audio (MP3, WAV, M4A, etc.)
+- Get accurate transcriptions with timestamps
+- Generate structured study notes automatically
+- Create practice quizzes and flashcards
+- Export in multiple formats (TXT, MD, PDF, DOCX)
 
 ---
 
